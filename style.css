@@ -1,0 +1,12 @@
+body {
+  width: 20%;
+}
+.outer {
+  padding: 20px;
+  background-color: lightgray;
+}
+.inner {
+  background-color: yellow;
+  border: 1px solid black;
+  padding: 10px;
+}
